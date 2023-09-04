@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/jameslin/Documents/Code/Manim/Test/media/videos/1080p60/partial_movie_files/Infinity/1413466013_4076118333_223132457.mp4'
+file 'file:/Users/jameslin/Documents/Code/Manim/Test/media/videos/1080p60/partial_movie_files/Infinity/1672018281_60045724_754159246.mp4'
+file 'file:/Users/jameslin/Documents/Code/Manim/Test/media/videos/1080p60/partial_movie_files/Infinity/1672018281_3002036106_2318947007.mp4'
+file 'file:/Users/jameslin/Documents/Code/Manim/Test/media/videos/1080p60/partial_movie_files/Infinity/1672018281_345352296_2301057767.mp4'
+file 'file:/Users/jameslin/Documents/Code/Manim/Test/media/videos/1080p60/partial_movie_files/Infinity/1672018281_3935951602_1963851793.mp4'
+file 'file:/Users/jameslin/Documents/Code/Manim/Test/media/videos/1080p60/partial_movie_files/Infinity/1672018281_345352296_125464499.mp4'
